@@ -1,5 +1,5 @@
-// URL for the instructions: 
-// https://education.launchcode.org/intro-to-professional-web-dev/chapters/typescript/exercises.html 
+// URL for the instructions:
+// https://education.launchcode.org/intro-to-professional-web-dev/chapters/typescript/exercises.html
 
 
 // Part 1: Declare (5) Variables With Type

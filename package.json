@@ -1,0 +1,23 @@
+{
+  "name": "typescript-lc101-projects",
+  "version": "1.0.0",
+  "description": "typescript practice",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tsc": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mtkramer/typescript-lc101-projects.git"
+  },
+  "author": "mtkramer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mtkramer/typescript-lc101-projects/issues"
+  },
+  "homepage": "https://github.com/mtkramer/typescript-lc101-projects#readme",
+  "dependencies": {
+    "typescript": "^3.9.2"
+  }
+}
