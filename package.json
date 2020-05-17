@@ -19,5 +19,8 @@
   "homepage": "https://github.com/mtkramer/typescript-lc101-projects#readme",
   "dependencies": {
     "typescript": "^3.9.2"
+  },
+  "devDependencies": {
+    "@types/node": "^14.0.1"
   }
 }
